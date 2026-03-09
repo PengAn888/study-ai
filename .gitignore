@@ -1,7 +1,4 @@
 .virtual_documents
 *checkpoint.*
 .DS_Store
-.DS_Store
-.DS_Store
-.DS_Store
-**/*.cpython-312..pyc
+**/*.pyc
